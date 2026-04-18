@@ -1,4 +1,6 @@
 # SQL_50_leetcode
+SQL 50 solutions from LeetCode.
+Practicing core queries and improving database problem-solving skills.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
