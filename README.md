@@ -1,6 +1,7 @@
 # SQL_50_leetcode
 SQL 50 solutions from LeetCode.
-Practicing core queries and improving database problem-solving skills.
+Focused on mastering core SQL concepts and query optimization.
+Consistent practice towards interview readiness.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
