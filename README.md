@@ -12,6 +12,7 @@ Consistent practice towards interview readiness.
 | [0620-not-boring-movies](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/1683-invalid-tweets) |
