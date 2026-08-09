@@ -26,4 +26,16 @@ Consistent practice towards interview readiness.
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/01prachisingh/SQL_50_leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
